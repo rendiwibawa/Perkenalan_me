@@ -21,7 +21,7 @@
 
 ## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AzharRivaldi&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=rendiwibawa&show_icons=true&theme=radical)
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=rendiwibawa&repo=AlQuran-Android&theme=gruvbox)](https://github.com/AzharRivaldi/AlQuran-Android)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=rendiwibawa&repo=ResepMakanan&theme=dracula)](https://github.com/AzharRivaldi/ResepMakanan)
